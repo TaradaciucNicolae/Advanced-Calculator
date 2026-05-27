@@ -19,4 +19,3 @@ The project includes two versions of the same calculator:
 CalculatorAvansatCuIcons.java      # Version with custom button icons
 CalculatorAvansatFaraIcons.java    # Version without custom button icons
 ```
-
